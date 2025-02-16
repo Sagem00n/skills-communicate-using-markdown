@@ -7,6 +7,10 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Added nonsense lines about headers to test
 Added image
 Added code
